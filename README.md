@@ -1,2 +1,2 @@
-# SHREYA -> MESSENGER APP
-# SyncIntern Internship Task-2
+# SHREYA - Task 2
+# SyncIntern Internship Task 2 - Messenger App
